@@ -27,6 +27,7 @@ export const AppCounter = ({ value }) => {
   return (
     <div className="App">
         <div className="freecodecamp-logo-contenedor">
+          <h1>CounterApp</h1>
         </div>
         <div className='contenedor-principal'>
           <Contador numcliClics={ contador }/>  
